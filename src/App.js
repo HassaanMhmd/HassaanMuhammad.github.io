@@ -22,5 +22,5 @@ function App() {
     </div>
   );
 }
-
+//this is update in App.js
 export default App;
